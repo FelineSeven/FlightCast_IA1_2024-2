@@ -1,18 +1,18 @@
 # FlightCast: Proyecto predicción de la demanda aérea 
 
-##Integrantes 
+## Integrantes 
 Fabiana Acuña López, Juan Manuel Ortiz Pabón, Christian Isnardo Orduz Picón
 
-##Objetivo
+## Objetivo
 Este proyecto está enfocado en la predicción de la demanda aérea utilizando algoritmos de inteligencia artificial 
 
-##Dataset
+## Dataset
 [U.S. Airline Traffic Data (2003-2023)](https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data/data)
 
-##Modelos
+## Modelos
 Desviación, Regresión, Deep Learning, DecisionTree, RandomForest, SuportVectorMachine, 
 
-##Codigo 
+## Codigo 
 Notebook terminado
-##Video
+## Video
 Enlace video
