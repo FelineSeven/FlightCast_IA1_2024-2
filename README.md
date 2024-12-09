@@ -2,8 +2,7 @@
 ![image](https://github.com/user-attachments/assets/932914b1-fcda-4e55-9105-32d8611d8741)
 
 ## Integrantes 
-Fabiana Acuña López, Juan Manuel Ortiz Pabón, Christian Isnardo Orduz Picón
-
+Fabiana Acuña López, Juan Manuel Ortiz Pabón, Christian Isnardo Orduz Picón.
 
 ## Objetivo
 Este proyecto está enfocado en la predicción de la demanda aérea utilizando algoritmos de inteligencia artificial. 
