@@ -1,4 +1,5 @@
 # FlightCast: Proyecto predicción de la demanda aérea 
+![image](https://github.com/user-attachments/assets/14cc897f-2ccc-4215-b8ef-a591b413336c)
 
 ## Integrantes 
 Fabiana Acuña López, Juan Manuel Ortiz Pabón, Christian Isnardo Orduz Picón
