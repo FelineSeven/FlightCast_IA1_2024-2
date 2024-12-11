@@ -14,6 +14,6 @@ Este proyecto está enfocado en la predicción de la demanda aérea utilizando a
 Desviación, Regresión, Deep Learning, DecisionTree, RandomForest, SupportVectorMachine.
 
 ## Codigo 
-Notebook terminado
+[Codigo FlightCast](./FlightCats_IA1_2024/Proyecto_IA)
 ## Video
 Enlace video
