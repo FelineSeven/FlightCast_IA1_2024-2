@@ -16,4 +16,4 @@ Desviación, Regresión, Deep Learning, DecisionTree, RandomForest, SupportVecto
 ## Codigo 
 [Codigo Proyecto FlightCast](https://github.com/FelineSeven/FlightCast_IA1_2024-2/blob/main/Flight_Cast_IA-1_20242/Proyecto_IA.ipynb)
 ## Video
-Enlace video
+[FlightCast ‐ Proyecto Final IA-1 | Modelos de Regresión y Deep Learning](https://www.youtube.com/watch?v=D9uxNw4OAmI)
