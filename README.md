@@ -1,5 +1,4 @@
 # FlightCast: Predicción inteligente de la demanda aérea 
-![image](https://github.com/user-attachments/assets/932914b1-fcda-4e55-9105-32d8611d8741)
 ![Banner_FlightCast_Proyecto_IA_800x300](https://github.com/user-attachments/assets/9af153fd-4472-47b6-a0d3-f2144bed66c3)
 
 ## Integrantes 
