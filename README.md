@@ -14,6 +14,6 @@ Este proyecto está enfocado en la predicción de la demanda aérea utilizando a
 Desviación, Regresión, Deep Learning, DecisionTree, RandomForest, SupportVectorMachine.
 
 ## Codigo 
-[Codigo FlightCast](./FlightCast_IA1_2024-2/Proyecto_IA)
+[Codigo FlightCast](https://github.com/FelineSeven/FlightCast_IA1_2024-2/blob/main/Flight_Cast_IA-1_20242/Proyecto_IA.ipynb)
 ## Video
 Enlace video
